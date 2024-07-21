@@ -612,17 +612,14 @@
         <footer id="footer">
           <div class="meet-the-dev">
             <p>Meet the Developer</p>
-            <a class="social-buttons" href="https://wwww.facebook.com/alnahian2003" target="_blank">
-              <button class="btn btn-light text-primary btn-sm" type="button"><i class="fab fa-facebook-square"></i> Facebook</button>
-            </a>
-            <a class="social-buttons" href="https://twitter.com/ImAlNahian" target="_blank">
+            <a class="social-buttons" href="https://twitter.com/MohamadeZouine" target="_blank">
               <button class="btn btn-info btn-sm" type="button"><i class="fab fa-twitter-square"></i></i> Twitter</button>
             </a>
-            <a class="social-buttons" href="https://github.com/alnahian2003" target="_blank">
+            <a class="social-buttons" href="https://github.com/Zouine2005" target="_blank">
               <button class="btn btn-dark btn-sm" type="button"><i class="fab fa-github-square"></i></i></i> Github</button>
             </a>
             <a class="social-buttons" href="https://www.linkedin.com/in/mohamed-zouine-5716a2252" mail target="_blank">
-              <button class="btn btn-primary btn-sm" type="button"><i class="fa fa-linkedin-square"></i></i> Email</button>
+              <button class="btn btn-primary btn-sm" type="button"><i class="fa fa-linkedin-square"></i></i> Linkedin</button>
             </a>
           </div>
           <p class="copyright-text">©Copyright 2024 | Version 1.0| Developed By Mohamed Zouine</p>
