@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>TalkEase</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
@@ -478,7 +478,7 @@
           <div class="container">
             <!-- Nav Bar -->
             <nav class="navbar navbar-expand-lg navbar-dark navbar-toggleable-md">
-              <a class="navbar-brand logo" href="#">tinmate</a>
+              <a class="navbar-brand logo" href="#">TalkEase</a>
               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarItems" aria-controls="navbarItems" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
               </button>
@@ -570,7 +570,7 @@
             <div class="carousel-inner">
               <div class="carousel-item active">
                 <h2>
-                  <span class="quotation-symbol">"</span>I've found my best companion through TinMate. They have made the process super easy. WHOOAH!!!<span class="quotation-symbol">"</span>
+                  <span class="quotation-symbol">"</span>I've found my best companion through TalkEase. They have made the process super easy. WHOOAH!!!<span class="quotation-symbol">"</span>
                 </h2>
                 <img src="{{asset('assets/images/michael-dam-mEZ3PoFGs_k-unsplash.jpg')}}" alt="emanuel-michel" style="width:13%; height:5%">
                 <p>Sanae Zouine</p>
@@ -578,7 +578,7 @@
               </div>
               <div class="carousel-item">
                 <h2>
-                  <span class="quotation-symbol">"</span>I was sparing my time lonely, but with TinMate's help, I have found the love of my life. I think.<span class="quotation-symbol">"</span>
+                  <span class="quotation-symbol">"</span>I was sparing my time lonely, but with TalkEase's help, I have found the love of my life. I think.<span class="quotation-symbol">"</span>
                 </h2>
                 <img src="{{asset('assets/images/jurica-koletic-7YVZYZeITc8-unsplash.jpg')}}" alt="diane-gudogdu" style="width:13%; height:5%">
                 <p>Ahmed Almou</p>
