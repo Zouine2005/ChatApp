@@ -129,6 +129,8 @@
               margin-top: -10%;
               padding-bottom: 10%;
               margin-left: 40%;
+              height: 470px;
+              width: ;
               transform: rotate(20deg);
             }
             
@@ -527,7 +529,7 @@
               </div>
       
               <div class="col-lg-6">
-                <img class="hero-img" src="images/OurApplication.png" alt="Our Application">
+                <img class="hero-img" src="{{asset('assets/images/OPPO-Find-X3-PRO-127.0.0.1.png')}}" alt="Our Application">
               </div>
             </div>
           </div>
@@ -570,16 +572,16 @@
                 <h2>
                   <span class="quotation-symbol">"</span>I've found my best companion through TinMate. They have made the process super easy. WHOOAH!!!<span class="quotation-symbol">"</span>
                 </h2>
-                <img src="images/couple.jpg" alt="emanuel-michel">
-                <p>Emanuel & Michel</p>
+                <img src="{{asset('assets/images/michael-dam-mEZ3PoFGs_k-unsplash.jpg')}}" alt="emanuel-michel" style="width:13%; height:5%">
+                <p>Sanae Zouine</p>
                 <em>Sydney, Australia</em>
               </div>
               <div class="carousel-item">
                 <h2>
                   <span class="quotation-symbol">"</span>I was sparing my time lonely, but with TinMate's help, I have found the love of my life. I think.<span class="quotation-symbol">"</span>
                 </h2>
-                <img src="images/lady-img.jpg" alt="diane-gudogdu">
-                <p>Diane Gudogdu</p>
+                <img src="{{asset('assets/images/jurica-koletic-7YVZYZeITc8-unsplash.jpg')}}" alt="diane-gudogdu" style="width:13%; height:5%">
+                <p>Ahmed Almou</p>
                 <em>Beverly, Illinois</em>
               </div>
             </div>
