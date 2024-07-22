@@ -1,6 +1,6 @@
 <div class="max-w-6xl mx-auto my-16">
 
-    <h5 class="text-center text-5xl font-bold py-3">Users</h5>
+    <h5 class="text-center text-5xl font-bold py-3">New Friends</h5>
 
 
 
