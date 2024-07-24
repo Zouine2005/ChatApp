@@ -1,5 +1,5 @@
 
-## Laravel Livewire Chat Course Demo App
+## Laravel Livewire TalkEase App
 
 ![./cover.jpeg](/cover.jpeg)
 
