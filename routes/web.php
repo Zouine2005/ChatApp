@@ -5,6 +5,7 @@ use App\Http\Livewire\Chat\Chat;
 use App\Http\Livewire\Chat\Index;
 use App\Http\Livewire\Users;
 use Illuminate\Support\Facades\Route;
+use App\Http\Livewire\Chat\ChatBox;
 
 /*
 |--------------------------------------------------------------------------
@@ -38,6 +39,7 @@ Route::middleware('auth')->group(function (){
 
     Route::get('/chat',Index::class)->name('chat.index');
     Route::get('/chat/{query}',Chat::class)->name('chat');
+    Route::post('/upload-voice-message', [ChatBox::class, 'uploadVoiceMessage'])->name('upload.voice.message');
     
     Route::get('/users',Users::class)->name('users');
     
