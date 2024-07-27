@@ -17,6 +17,7 @@ class Message extends Model
         'read_at',
         'receiver_deleted_at',
         'sender_deleted_at',
+        'voice_message_path', // Add this line
     ];
 
 
