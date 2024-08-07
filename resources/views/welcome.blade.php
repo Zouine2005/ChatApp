@@ -529,7 +529,7 @@
               </div>
       
               <div class="col-lg-6">
-                <img class="hero-img" src="{{asset('assets/images/OPPO-Find-X3-PRO-127.0.0.1.png')}}" alt="Our Application">
+                <img class="hero-img" src="{{asset('assets/images/welcome-image.png')}}" alt="Our Application">
               </div>
             </div>
           </div>
