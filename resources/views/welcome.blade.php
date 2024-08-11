@@ -502,7 +502,7 @@
                   </li>
                  <li class="nav-items text-center">
                         @if (Route::has('register'))
-                            <a href="{{ route('register') }}" class="nav-link">Register</a>
+                            <a href="{{ route('register') }}" class="nav-link">Sing Up</a>
                         @endif
                  </li>
                     @endauth
